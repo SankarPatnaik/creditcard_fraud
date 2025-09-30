@@ -1,0 +1,9 @@
+pycaret
+pandas
+numpy
+imbalanced-learn
+shap
+fastapi
+uvicorn[standard]
+plotly
+streamlit
